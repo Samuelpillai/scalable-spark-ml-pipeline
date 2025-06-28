@@ -1,21 +1,21 @@
-# 🔥 Scalable ML Pipeline with Apache Spark
+# Scalable ML Pipeline with Apache Spark
 
 This repository contains a modular and scalable machine learning pipeline built using **Apache Spark**. It demonstrates distributed data preprocessing, exploratory data analysis, and model training for binary classification, regression, and multiclass classification tasks using PySpark’s MLlib.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ End-to-end data pipeline with Apache Spark (PySpark)
-- ✅ Handles classification (binary & multiclass) and regression
-- ✅ Feature engineering with vector assemblers and transformers
-- ✅ Train/test split and evaluation with multiple metrics
-- ✅ Spark DataFrame-based EDA and visualization
-- ✅ Scalability for big data workloads
+-  End-to-end data pipeline with Apache Spark (PySpark)
+-  Handles classification (binary & multiclass) and regression
+-  Feature engineering with vector assemblers and transformers
+-  Train/test split and evaluation with multiple metrics
+-  Spark DataFrame-based EDA and visualization
+-  Scalability for big data workloads
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component        | Tools / Frameworks     |
 |------------------|------------------------|
@@ -28,7 +28,7 @@ This repository contains a modular and scalable machine learning pipeline built 
 
 ---
 
-## 📁 Project Structure---
+## Project Structure---
 
 spark-ml-pipeline/
 ├── spark_classification.ipynb        # Binary & multiclass classification models
@@ -36,7 +36,7 @@ spark-ml-pipeline/
 ├── utils/                            # Helper functions (optional)
 └── README.md
 
-## 📊 ML Workflows Included
+## ML Workflows Included
 
 ### Binary Classification
 
@@ -56,7 +56,7 @@ spark-ml-pipeline/
 
 ---
 
-## 🖼️ Architecture Diagram
+## Architecture Diagram
 
 Below is the high-level architecture of the end-to-end Spark ML pipeline:
 
@@ -68,27 +68,26 @@ The following screenshots show the streaming output, Kafka logs, and Spark Ul mo
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 Visuals include:
 
-- 📌 Correlation matrix heatmaps
-- 📌 Feature importance plots
-- 📌 Prediction vs Actual scatter plots
-- 📌 Confusion matrices
+-  Correlation matrix heatmaps
+-  Feature importance plots
+-  Prediction vs Actual scatter plots
+-  Confusion matrices
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
 **Samuel Pillai**  
-[GitHub Portfolio](https://github.com/Samuelpillai)  
-📫 ssamuelpillai@gmail.com
+ssamuelpillai@gmail.com
 
 ---
